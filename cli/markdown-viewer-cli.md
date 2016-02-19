@@ -13,7 +13,7 @@ apt-get install pandoc lynx
 pandoc <markdown_file> -f markdown -t html | lynx -stdin
 ```
  
-You might want to create a bash alias since you will use this frequently
+You might want to create a bash function since you will use this frequently
  
 * **using markdown**
 ```shell
