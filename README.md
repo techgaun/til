@@ -33,6 +33,7 @@ Today I learned
 
 ### unix
 
+- [Arp scanning with arp-scan](unix/arp-scan-network.md)
 - [Better way of counting files](unix/count-number-of-files-better-way.md)
 
 ---
