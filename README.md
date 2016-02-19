@@ -13,6 +13,7 @@ Today I learned
 - [git](#git)
 - [linux](#linux)
 - [nodejs](#nodejs)
+- [unix](#unix)
 
 ### CLI
 
@@ -29,6 +30,10 @@ Today I learned
 ### nodejs
 
 - [Expressjs req.protocol behing nginx proxy](nodejs/nodejs-req-protocol-with-nginx-proxy.md)
+
+### unix
+
+- [Better way of counting files](unix/count-number-of-files-better-way.md)
 
 ---
 
