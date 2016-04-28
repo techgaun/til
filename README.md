@@ -9,12 +9,17 @@ Today I learned
 
 ### Categories
 
+- [API](#api)
 - [CLI](#cli)
 - [docker](#docker)
 - [git](#git)
 - [linux](#linux)
 - [nodejs](#nodejs)
 - [unix](#unix)
+
+### API
+
+- [Get chrome browser console in postman app](api/postman-console-log.md)
 
 ### CLI
 
