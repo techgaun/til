@@ -13,6 +13,7 @@ Today I learned
 - [CLI](#cli)
 - [docker](#docker)
 - [git](#git)
+- [hacking](#hacking)
 - [linux](#linux)
 - [nodejs](#nodejs)
 - [unix](#unix)
@@ -33,6 +34,10 @@ Today I learned
 
 - [Cleanup stale tracking branches](git/cleanup-stale-remote-branches-ref.md)
 - [Multiple github accounts](git/work-with-multiple-github-accounts.md)
+
+### hacking
+
+- [Zip and Rar password cracking with JTR](hacking/jtr-zip-rar-cracking.md)
 
 ### linux
 
