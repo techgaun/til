@@ -10,6 +10,7 @@ Today I learned
 ### Categories
 
 - [API](#api)
+- [Browsers](#browsers)
 - [CLI](#cli)
 - [docker](#docker)
 - [git](#git)
@@ -21,6 +22,10 @@ Today I learned
 ### API
 
 - [Get chrome browser console in postman app](api/postman-console-log.md)
+
+### Browsers
+
+- [Check all fields at once in Heroku connect object mapping](browser/heroku-connect-mapping-checkall.md)
 
 ### CLI
 
