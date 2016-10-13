@@ -17,6 +17,7 @@ Today I learned
 - [hacking](#hacking)
 - [linux](#linux)
 - [nodejs](#nodejs)
+- [salesforce](#salesforce)
 - [unix](#unix)
 
 ### API
@@ -51,6 +52,10 @@ Today I learned
 ### nodejs
 
 - [Expressjs req.protocol behing nginx proxy](nodejs/nodejs-req-protocol-with-nginx-proxy.md)
+
+### salesforce
+
+- [SF query result export csv](salesforce/dev-console-csv-export.md)
 
 ### unix
 
