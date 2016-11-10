@@ -13,6 +13,7 @@ Today I learned
 - [Browsers](#browsers)
 - [CLI](#cli)
 - [docker](#docker)
+- [Erlang](#erlang)
 - [git](#git)
 - [hacking](#hacking)
 - [linux](#linux)
@@ -35,6 +36,10 @@ Today I learned
 ### docker
 
 - [Docker UI as Web Management for Docker](docker/dockerui.md)
+
+### Erlang
+
+- [Find Erlang Full Version](erlang/full-version.md)
 
 ### git
 
