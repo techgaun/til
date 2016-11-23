@@ -13,6 +13,7 @@ Today I learned
 - [Browsers](#browsers)
 - [CLI](#cli)
 - [docker](#docker)
+- [Elixir](#elixir)
 - [Erlang](#erlang)
 - [git](#git)
 - [hacking](#hacking)
