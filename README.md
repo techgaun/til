@@ -37,6 +37,10 @@ Today I learned
 
 - [Docker UI as Web Management for Docker](docker/dockerui.md)
 
+### Elixir
+
+- [Private Github Repo as Package dependency](elixir/priv-ghrepo-deps.md)
+
 ### Erlang
 
 - [Find Erlang Full Version](erlang/full-version.md)
