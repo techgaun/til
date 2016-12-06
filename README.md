@@ -40,6 +40,7 @@ Today I learned
 
 ### Elixir
 
+- [Elixir to Erlang](elixir/elixir-to-erlang.md)
 - [Private Github Repo as Package dependency](elixir/priv-ghrepo-deps.md)
 
 ### Erlang
