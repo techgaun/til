@@ -12,6 +12,7 @@ Today I learned
 - [API](#api)
 - [Browsers](#browsers)
 - [CLI](#cli)
+- [Database](#database)
 - [docker](#docker)
 - [Elixir](#elixir)
 - [Erlang](#erlang)
@@ -34,6 +35,9 @@ Today I learned
 
 - [View markdown on command line](cli/markdown-viewer-cli.md)
 
+### Database
+
+- [Copy data from one measurement to another](database/influxdb-copy-db.md)
 ### docker
 
 - [Docker UI as Web Management for Docker](docker/dockerui.md)
