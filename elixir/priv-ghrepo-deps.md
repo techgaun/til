@@ -22,7 +22,7 @@ However this does not always cater your need. For example, if your deployment se
 
 #### Use personal access token
 
-Get yourself (or for dedicated machine user) a personal access token from [https://github.com/settings/tokens](github settings page). I personally like to keep it separate and also just give repo:read for the token.
+Get yourself (or for dedicated machine user) a personal access token from (github settings page)[https://github.com/settings/tokens]. I personally like to keep it separate and also just give repo:read for the token.
 
 ```
 defp deps do
