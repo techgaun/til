@@ -65,6 +65,7 @@ Today I learned
 ### linux
 
 - [Inode counts and disk space](linux/inode-counts-disk-space.md)
+- [Systemd Timers For Cron](linux/systemd-timers-for-cron.md)
 
 ### nodejs
 
