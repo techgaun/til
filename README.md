@@ -55,6 +55,7 @@ Today I learned
 ### git
 
 - [Cleanup stale tracking branches](git/cleanup-stale-remote-branches-ref.md)
+- [Clone From Remote With Expired SSL Cert](git/clone-server-cert-verification-failed.md)
 - [Multiple github accounts](git/work-with-multiple-github-accounts.md)
 - [Get Latest Tag](git/latest-tag.md)
 
