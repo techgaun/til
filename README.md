@@ -33,6 +33,7 @@ Today I learned
 
 ### CLI
 
+- [Bash strict mode](cli/bash-strict-mode.md)
 - [View markdown on command line](cli/markdown-viewer-cli.md)
 
 ### Database
