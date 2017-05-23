@@ -69,6 +69,7 @@ Today I learned
 
 - [Inode counts and disk space](linux/inode-counts-disk-space.md)
 - [Serial Device Sniffing](linux/serial-device-sniffing.md)
+- [Strace Quick Cheatsheet](linux/strace-quick-cheatsheet.md)
 - [Systemd Timers For Cron](linux/systemd-timers-for-cron.md)
 - [Understanding Uptime](linux/uptime-proc-uptime.md)
 
