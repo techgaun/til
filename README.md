@@ -34,6 +34,7 @@ Today I learned
 ### CLI
 
 - [Bash strict mode](cli/bash-strict-mode.md)
+- [Markdown Presentation With MDP in CLI](cli/mdp-cli-presentation.md)
 - [View markdown on command line](cli/markdown-viewer-cli.md)
 
 ### Database
