@@ -20,6 +20,7 @@ Today I learned
 - [hacking](#hacking)
 - [linux](#linux)
 - [nodejs](#nodejs)
+- [programming](#programming)
 - [salesforce](#salesforce)
 - [unix](#unix)
 
@@ -77,6 +78,10 @@ Today I learned
 ### nodejs
 
 - [Expressjs req.protocol behing nginx proxy](nodejs/nodejs-req-protocol-with-nginx-proxy.md)
+
+### programming
+
+- [Rob Pike's 5 Rules of Programming](programming/rob-pikes-5-programming-rules.md)
 
 ### salesforce
 
