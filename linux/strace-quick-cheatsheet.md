@@ -13,3 +13,25 @@ This is a quick strace cheatsheet:
   `memory`
 - syscalls statistics : `strace -c <program>`
 - print time of day at the start of each line : `strace -t <program>`
+
+### strace bash builtins
+
+Sometimes you may want to know what syscalls are made when you execute bash builtins such as `cd`. I got two ways around
+this:
+
+```shell
+$ cat | strace bash > /dev/null
+# strace outputs will appear but you can run commands here although it might not look like shell
+cd /tmp
+```
+
+Other way is to create simple scripts to forward to builtin:
+
+- Create a file named `mycd` with following content and `chmod +x mycd`:
+
+```shell
+#!/bin/bash
+builtin cd "$@"
+```
+
+- Now run strace on `mycd` by doing: `strace ./mycd /tmp`
