@@ -71,6 +71,7 @@ Today I learned
 
 - [Inode counts and disk space](linux/inode-counts-disk-space.md)
 - [Journalctl Quick Cheatsheet](linux/journalctl-quick-cheatsheet.md)
+- [Retrieve Kernel Boot Parameters](linux/retrieve-kernel-boot-parameter.md)
 - [Serial Device Sniffing](linux/serial-device-sniffing.md)
 - [Strace Quick Cheatsheet](linux/strace-quick-cheatsheet.md)
 - [Systemd Timers For Cron](linux/systemd-timers-for-cron.md)
