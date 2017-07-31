@@ -21,6 +21,7 @@ Today I learned
 - [linux](#linux)
 - [nodejs](#nodejs)
 - [programming](#programming)
+- [python](#python)
 - [salesforce](#salesforce)
 - [unix](#unix)
 
@@ -84,6 +85,10 @@ Today I learned
 ### programming
 
 - [Rob Pike's 5 Rules of Programming](programming/rob-pikes-5-programming-rules.md)
+
+### Python
+
+- [Private Github Repo With pip](private-github-repo-pip-requirements.md)
 
 ### salesforce
 
