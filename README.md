@@ -81,6 +81,7 @@ Today I learned
 ### nodejs
 
 - [Expressjs req.protocol behing nginx proxy](nodejs/nodejs-req-protocol-with-nginx-proxy.md)
+- [Reinstall global packages when you change nodejs version](nodejs/nvm-reinstall-global-packages-on-version-update.md)
 
 ### programming
 
