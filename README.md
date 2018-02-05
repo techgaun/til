@@ -55,6 +55,7 @@ Today I learned
 
 ### Erlang
 
+- [Erlang/Elixir Debugging with dbg module](erlang/erl-elixir-debugging-with-dbg.md)
 - [Find Erlang Full Version](erlang/full-version.md)
 
 ### git
