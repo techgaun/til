@@ -28,3 +28,9 @@ location / {
 ```
 
 Now, you should be able to get appropriate `req.protocol` in your express app.
+
+### Alternative Method
+You can use this simple method if you do not want to forward header from nginx.
+```
+var protocol = (req.connection.encrypted ? 'https://' : 'http://' )
+```
