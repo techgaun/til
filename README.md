@@ -43,6 +43,8 @@ Today I learned
 ### Database
 
 - [Copy data from one measurement to another](database/influxdb-copy-db.md)
+- [Copy CSV from remote server to local filesystem on Postgres](database/postgres-copy-to-csv-remote-to-local.md)
+
 ### docker
 
 - [Docker UI as Web Management for Docker](docker/dockerui.md)
