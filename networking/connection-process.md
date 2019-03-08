@@ -13,3 +13,4 @@ Following are the steps for establishing a connection from client to server:
 - You can use sysctl config to update `net.core.somaxconn` to bigger values
 - If SYN queue is full, the connection is dropped
 - Client backs off and re-sends another SYN packet
+- Using `SO_REUSEPORT` socket options and running multiple applications bound to same PORT can help enhance performance
